@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4f821485-5dd7-4874-b98f-e23e89bc8e86" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1Z4RBFaYslDl9Z2WenvBIIP8v0V" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/views" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/views" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/views/posts" />
+      <recent name="$PROJECT_DIR$/views/conn" />
+      <recent name="$PROJECT_DIR$/views/layouts" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f821485-5dd7-4874-b98f-e23e89bc8e86" name="Default Changelist" comment="" />
+      <created>1584096242797</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584096242797</updated>
+      <workItem from="1584096244157" duration="25187000" />
+      <workItem from="1584260440149" duration="3665000" />
+      <workItem from="1584320735965" duration="18578000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="795" y="174" key="#com.intellij.ide.util.MemberChooser" timestamp="1584106428330">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="795" y="174" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1584106428330" />
+    <state x="899" y="385" key="NewPhpFileDialog" timestamp="1584260535912">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="899" y="385" key="NewPhpFileDialog/0.0.1440.900@0.0.1440.900" timestamp="1584260535912" />
+    <state x="690" y="372" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1584262651176">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="690" y="372" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1440.900@0.0.1440.900" timestamp="1584262651176" />
+  </component>
+</project>
